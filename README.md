@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrk84ya" alt="hrk84ya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/harshku17196063" target="blank"><img src="https://img.shields.io/twitter/follow/harshku17196063?logo=twitter&style=for-the-badge" alt="harshku17196063" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hrk84ya" target="blank"><img src="https://img.shields.io/twitter/follow/hrk84ya?logo=twitter&style=for-the-badge" alt="hrk84ya" /></a> </p>
 
 - 🌱 I’m currently learning: **Java, Python, SQL, AI/ML, Data Science**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Hrk84ya](https://github.com/Hrk84ya)
 
-- 💬 Ask me about: **Python, Java, Powerpoint**
+- 💬 Ask me about: **Python, Java, Git, Github, Powerpoint**
 
 - 📫 How to reach me: **hrk84ya@gmail.com**
 

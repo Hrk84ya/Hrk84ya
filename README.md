@@ -15,14 +15,14 @@
 
 - 📫 How to reach me: **hrk84ya@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/14dWKqiwSxtdH9CyuSFkO7nZM1dyh7K3Q/view?usp=drive_link](https://drive.google.com/file/d/14dWKqiwSxtdH9CyuSFkO7nZM1dyh7K3Q/view?usp=drive_link)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1BDfEXLmTUm71_ohBAcDW0CuwUlv8sLed/view?usp=sharing](https://drive.google.com/file/d/1BDfEXLmTUm71_ohBAcDW0CuwUlv8sLed/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hrk84ya" height="30" width="40" /></a>
-<a href="https://twitter.com/harshku17196063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshku17196063" height="30" width="40" /></a>
+<a href="https://twitter.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrk84ya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrk84ya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19905995/harsh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19905995/harsh-kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hrk84ya" height="30" width="40" /></a>

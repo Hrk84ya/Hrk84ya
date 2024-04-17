@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrk84ya&show_icons=true&locale=en" alt="hrk84ya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="hrk84ya" /></p>
+
+<a href="https://app.daily.dev/harsh84ya"><img src="https://api.daily.dev/devcards/v2/nNpADMHPFJqQigwy7m7Ae.png?type=default&r=8o9" width="356" alt="Harsh Kumar's Dev Card"/></a>

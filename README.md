@@ -43,4 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="hrk84ya" /></p>
 
-<a href="https://app.daily.dev/harsh84ya"><img src="https://api.daily.dev/devcards/v2/nNpADMHPFJqQigwy7m7Ae.png?type=default&r=8o9" width="356" alt="Harsh Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/hrk84ya"><img src="https://api.daily.dev/devcards/v2/InW089eIcVnLI5NtYB0rB.png?type=default&r=8my" width="356" alt="Harsh Kumar's Dev Card"/></a>

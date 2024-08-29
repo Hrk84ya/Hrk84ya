@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **hrk84ya@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1BDfEXLmTUm71_ohBAcDW0CuwUlv8sLed/view?usp=sharing](https://drive.google.com/file/d/1BDfEXLmTUm71_ohBAcDW0CuwUlv8sLed/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1MbstKyLel4u87xIJhxYucI5GycuyugMW/view?usp=sharing](https://drive.google.com/file/d/1MbstKyLel4u87xIJhxYucI5GycuyugMW/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny**
 

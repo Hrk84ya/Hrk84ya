@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">Machine Learning Engineer in Training</h3>
 
-<div align="center">
-    <a href="https://github.com/Hrk84ya/Facebomp-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hrk84ya&repo=Facebomp-Game" alt="Facebomp-Game Repo" />
-    </a>
-    <a href="https://github.com/Hrk84ya/CPP-Repo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hrk84ya&repo=CPP-Repo" alt="CPP-Repo Repo" />
-    </a>
-    <a href="https://github.com/Hrk84ya/Sugarcane-Production-EDA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hrk84ya&repo=Sugarcane-Production-EDA" alt="Sugarcane-Production-EDA Repo" />
-    </a>
-    
-</div>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">Machine Learning Engineer in Training</h3>
-
+<img src="IMG.jpg" alt="Profile Views" />
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

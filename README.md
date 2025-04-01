@@ -92,8 +92,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="Streak Stats" />
 </p>
 
-<div align="center">
-    <a href="https://app.daily.dev/hrk84ya">
-        <img src="https://api.daily.dev/devcards/v2/InW089eIcVnLI5NtYB0rB.png?type=default&r=8my" width="356" alt="Harsh Kumar's Dev Card"/>
-    </a>
-</div>

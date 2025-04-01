@@ -85,21 +85,65 @@
 </p>
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk84ya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://leetcard.jacoblin.cool/Hrk84ya?border=1&radius=20&theme=dark#gh-light-mode-only" alt="Leetcode Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk84ya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hrk84ya&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="Streak Stats" />
-</p>
-
+    <img src="https://leetcard.jacoblin.cool/Hrk84ya?border=1&radius=20&theme=dark#gh-light-mode-only" alt="Leetcode Stats" />
+</div>
 
 ### 📊 My GitHub Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrk84ya&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+
+### 📚 Latest Blog Posts
+<div align="center">
+  <a href="https://medium.com/@hrk84ya">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" />
+  </a>
+</div>
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerRank-5%20⭐%20Python%20|%204%20⭐%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/LeetCode-100%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Kaggle-Competitions%20Participated-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</div>
+
+### 📬 Contact Me
+<div align="center">
+  <p>Feel free to reach out to me through any of these channels:</p>
+  
+  <a href="mailto:hrk84ya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hrk84ya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://linkedin.com/in/hrk84ya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://twitter.com/hrk84ya">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://github.com/hrk84ya">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🌟 Thanks for visiting my profile! 🌟</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Always%20Learning-FF6B6B?style=for-the-badge&logo=learning&logoColor=white" alt="Always Learning" />
+    <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Made%20with%20❤️-FF69B4?style=for-the-badge&logo=heart&logoColor=white" alt="Made with Love" />
+  </p>
+
+  <p>Feel free to connect with me and let's build something amazing together! 🚀</p>
 </div>
 

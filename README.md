@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Harsh+Kumar;Machine+Learning+Engineer+in+Training;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
 <h3 align="center">Machine Learning Engineer in Training</h3>
 <img src="IMG.jpg" alt="Profile Views" />
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/hrk84ya?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/hrk84ya?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 <div align="left">
@@ -21,7 +26,7 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning: **Python, SQL, AI/ML, Data Science, Cloud ☁️**
+- 🌱 I'm currently learning: **Python, SQL, AI/ML, Data Science, Cloud ☁️**
 - 🌏 Check out my website: [hrk84ya](https://hrk84ya.netlify.app/)
 - 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Hrk84ya?tab=repositories)
 - 💬 Ask me about: **Python, Git, GitHub, AWS, Machine Learning, Natural Language Processing**
@@ -91,4 +96,10 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="Streak Stats" />
 </p>
+
+
+### 📊 My GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrk84ya&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
 

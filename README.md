@@ -21,12 +21,12 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning: **Java, Python, SQL, AI/ML, Data Science**
+- 🌱 I’m currently learning: **Python, SQL, AI/ML, Data Science, Cloud ☁️**
 - 🌏 Check out my website: [hrk84ya](https://hrk84ya.netlify.app/)
-- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Hrk84ya)
-- 💬 Ask me about: **Python, Java, Git, GitHub, PowerPoint**
+- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Hrk84ya?tab=repositories)
+- 💬 Ask me about: **Python, Git, GitHub, AWS, Machine Learning, Natural Language Processing**
 - 📫 How to reach me: **hrk84ya@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1MbstKyLel4u87xIJhxYucI5GycuyugMW/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1KojmvrTme6i2BQRTUjLpJDx5FjjjgCBr/view?usp=sharing)
 - ⚡ Fun fact: **I think I am funny**
 
 ---

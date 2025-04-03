@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Harsh+Kumar;Machine+Learning+Engineer+in+Training;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Harsh+Kumar;Machine+Learning+Engineer+in+Training;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Machine Learning Engineer in Training</h3>
@@ -26,63 +26,265 @@
 ---
 
 ### About Me
-- 🌱 I'm currently learning: **Python, SQL, AI/ML, Data Science, Cloud ☁️**
-- 🌏 Check out my website: [hrk84ya](https://hrk84ya.netlify.app/)
-- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Hrk84ya?tab=repositories)
-- 💬 Ask me about: **Python, Git, GitHub, AWS, Machine Learning, Natural Language Processing**
-- 📫 How to reach me: **hrk84ya@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1KojmvrTme6i2BQRTUjLpJDx5FjjjgCBr/view?usp=sharing)
-- ⚡ Fun fact: **I think I am funny**
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Science-Enthusiast-2D9EF7?style=for-the-badge&logo=datascience&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+
+<div align="left">
+  
+- 🔭 **Current Focus**: Building scalable ML solutions and exploring advanced NLP techniques
+- 🌱 **Learning Journey**: Mastering Python, SQL, AI/ML, Data Science, and Cloud Technologies
+- 💡 **Expertise**: 
+  - Machine Learning
+  - Natural Language Processing
+  - Cloud Architecture (AWS)
+  - Data Engineering & Analytics
+  - Software Development (Python, Java)
+- 🌐 **Portfolio**: [Personal Website](https://hrk84ya.netlify.app/)
+- 📚 **Projects**: [GitHub Repository](https://github.com/Hrk84ya?tab=repositories)
+- 📄 **Resume**: [View My Experience](https://drive.google.com/file/d/1KojmvrTme6i2BQRTUjLpJDx5FjjjgCBr/view?usp=sharing)
+- 💬 **Let's Connect**: [hrk84ya@gmail.com](mailto:hrk84ya@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Always_Learning-FF6B6B?style=for-the-badge&logo=learning&logoColor=white" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/Problem_Solver-3DA639?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Team_Player-FF69B4?style=for-the-badge&logo=team&logoColor=white" alt="Team Player" />
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-    <a href="https://twitter.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19905995/harsh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-    <a href="https://kaggle.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-    <a href="https://instagram.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://medium.com/@hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@hrk84ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/hrk84ya/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with Me</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" height="48" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://twitter.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="Twitter" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://kaggle.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">LinkedIn</td>
+      <td align="center">GitHub</td>
+      <td align="center">Twitter</td>
+      <td align="center">Kaggle</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://stackoverflow.com/users/19905995/harsh-kumar">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48" height="48" alt="Stack Overflow" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://dev.to/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="48" height="48" alt="Dev.to" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://medium.com/@hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="48" height="48" alt="Medium" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.hackerrank.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Stack Overflow</td>
+      <td align="center">Dev.to</td>
+      <td align="center">Medium</td>
+      <td align="center">HackerRank</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.leetcode.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.hackerearth.com/@hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="48" height="48" alt="HackerEarth" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://auth.geeksforgeeks.org/user/hrk84ya/profile">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48" height="48" alt="GeeksforGeeks" />
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/hrk84ya">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">LeetCode</td>
+      <td align="center">HackerEarth</td>
+      <td align="center">GeeksforGeeks</td>
+      <td align="center">Instagram</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-</p>
+<h3 align="left">Languages and Tools</h3>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <div style="text-align: center;">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Python</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Java</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">C</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">C++</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">HTML5</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">CSS3</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">MySQL</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Oracle</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Git</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Figma</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://huggingface.co/" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Hugging Face</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">TensorFlow</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Linux</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.canva.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Canva</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Postman</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Docker</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Kubernetes</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">AWS</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.jenkins.io/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Jenkins</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.tableau.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+      </a>
+      <p style="margin: 5px 0; font-size: 14px;">Tableau</p>
+    </div>
+  </div>
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk84ya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />

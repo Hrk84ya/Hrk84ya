@@ -5,11 +5,20 @@
 <h3 align="center">Machine Learning Engineer in Training</h3>
 <img src="IMG.jpg" alt="Profile Views" />
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/hrk84ya?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/hrk84ya?label=Stars&style=social" alt="GitHub Stars" />
-</p>
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <p>
+    <a href="https://github.com/hrk84ya">
+      <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/hrk84ya?tab=followers">
+      <img src="https://img.shields.io/github/followers/hrk84ya?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/hrk84ya?tab=stars">
+      <img src="https://img.shields.io/github/stars/hrk84ya?label=Stars&style=social" alt="GitHub Stars" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
@@ -17,8 +26,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hrk84ya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </div>
-
-
 
 ---
 

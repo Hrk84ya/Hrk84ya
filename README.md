@@ -11,17 +11,14 @@
     <img src="https://img.shields.io/github/stars/hrk84ya?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-<div align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hrk84ya" alt="Trophies" />
-    </a>
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hrk84ya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
-<p align="left">
-    <a href="https://twitter.com/hrk84ya" target="blank">
-        <img src="https://img.shields.io/twitter/follow/hrk84ya?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-    </a>
-</p>
+
 
 ---
 
@@ -36,7 +33,7 @@
 - 🔭 **Current Focus**: Building scalable ML solutions and exploring advanced NLP techniques
 - 🌱 **Learning Journey**: Mastering Python, SQL, AI/ML, Data Science, and Cloud Technologies
 - 💡 **Expertise**: 
-  - Machine Learning
+  - Machine Learning & Deep Learning
   - Natural Language Processing
   - Cloud Architecture (AWS)
   - Data Engineering & Analytics
@@ -161,129 +158,27 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center;">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Python</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Java</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">C</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">C++</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">HTML5</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">CSS3</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">MySQL</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Oracle</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Git</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Figma</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://huggingface.co/" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Hugging Face</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">TensorFlow</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Linux</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.canva.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Canva</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Postman</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Docker</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Kubernetes</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">AWS</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.jenkins.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Jenkins</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.tableau.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-      </a>
-      <p style="margin: 5px 0; font-size: 14px;">Tableau</p>
-    </div>
-  </div>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 </div>
 
 <div align="center">

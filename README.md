@@ -47,7 +47,7 @@
   - Software Development (Python, Java)
 - 🌐 **Portfolio**: [Personal Website](https://hrk84ya.netlify.app/)
 - 📚 **Projects**: [GitHub Repository](https://github.com/Hrk84ya?tab=repositories)
-- 📄 **Resume**: [View My Experience](https://drive.google.com/file/d/1KojmvrTme6i2BQRTUjLpJDx5FjjjgCBr/view?usp=sharing)
+- 📄 **Resume**: [View My Experience](https://drive.google.com/file/d/1Lf0wfeD_HPKq2QEFWbp98Gm88mfP3Cnq/view?usp=sharing)
 - 💬 **Let's Connect**: [hrk84ya@gmail.com](mailto:hrk84ya@gmail.com)
 
 </div>

@@ -8,23 +8,28 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <p>
-    <a href="https://github.com/hrk84ya">
-      <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/hrk84ya?tab=followers">
-      <img src="https://img.shields.io/github/followers/hrk84ya?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/hrk84ya?tab=stars">
-      <img src="https://img.shields.io/github/stars/hrk84ya?label=Stars&style=social" alt="GitHub Stars" />
+    <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrk84ya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hrk84ya?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/hrk84ya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hrk84ya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hrk84ya.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
     </a>
   </p>
 </div>
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hrk84ya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hrk84ya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -207,14 +212,20 @@
 ### 📚 Latest Blog Posts
 <div align="center">
   <a href="https://medium.com/@hrk84ya">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hrk84ya/0" alt="Recent Article 0">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://medium.com/@hrk84ya">
+    <img src="https://img.shields.io/badge/Medium-Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
 ### 🏆 Achievements
 <div align="center">
   <img src="https://img.shields.io/badge/HackerRank-5%20⭐%20Python%20|%204%20⭐%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/LeetCode-100%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-200+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Kaggle-Competitions%20Participated-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </div>
 

@@ -261,4 +261,6 @@
 
   <p>Feel free to connect with me and let's build something amazing together! 🚀</p>
 </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&text=Let's+build+something+intelligent+together!&fontSize=16&fontColor=ffffff&animation=fadeIn" />
+</div>

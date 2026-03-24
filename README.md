@@ -168,46 +168,98 @@
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="center">🔥 What I Build With</h2>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+<div align="center">
+<table>
+<tr><td colspan="4" align="center"><strong>🧠 ML & AI — The Core</strong></td></tr>
+<tr>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" /><br/><sub><b>HuggingFace</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" /><br/><sub><b>Scikit-learn</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" /><br/><sub><b>Keras</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br/><sub><b>NumPy</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br/><sub><b>Pandas</b></sub>
+  </td>
+</tr>
+
+<tr><td colspan="4" align="center"><strong>💻 Languages & Data</strong></td></tr>
+<tr>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub>
+  </td>
+</tr>
+
+<tr><td colspan="4" align="center"><strong>☁️ Cloud & MLOps</strong></td></tr>
+<tr>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /><br/><sub><b>AWS</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="K8s" /><br/><sub><b>Kubernetes</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br/><sub><b>Jenkins</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br/><sub><b>Tableau</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br/><sub><b>Postman</b></sub>
+  </td>
+</tr>
+</table>
+</div>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrk84ya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&icon_color=EF4444&text_color=c9d1d9&ring_color=F97316&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&hide_border=true&background=0D1117&stroke=30363d&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B&sideLabels=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrk84ya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrk84ya&hide_border=true&bg_color=0D1117&color=F59E0B&line=EF4444&point=F59E0B&area=true&area_color=F9731633" />
 </div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hrk84ya&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrk84ya&" alt="Streak Stats" />
-    <img src="https://leetcard.jacoblin.cool/Hrk84ya?border=1&radius=20&theme=dark#gh-light-mode-only" alt="Leetcode Stats" />
-</div>
-
-### 📊 My GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrk84ya&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
 
 ### 📚 Latest Blog Posts
 <div align="center">
